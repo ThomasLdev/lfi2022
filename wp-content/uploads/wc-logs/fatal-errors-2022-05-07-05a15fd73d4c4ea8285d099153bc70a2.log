@@ -1,0 +1,116 @@
+2022-05-07T19:17:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-includes\class-wp-hook.php à la ligne 306
+
+2022-05-07T19:17:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-includes\formatting.php à la ligne 1125
+
+2022-05-07T19:17:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-content\plugins\woocommerce\includes\wc-formatting-functions.php à la ligne 291
+
+2022-05-07T19:17:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php à la ligne 744
+
+2022-05-07T20:23:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php à la ligne 738
+
+2022-05-07T21:12:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-includes\functions.php à la ligne 147
+
+2022-05-07T21:26:49+00:00 CRITICAL Uncaught Error: Call to undefined function split() in C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php:118
+Stack trace:
+#0 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\templates\forms_templates\default_form.php(18): WSForms->getFormType(Array, 0)
+#1 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php(86): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\shortcodes\ws_shortcode.php(29): WSForms->getFormById('1', false)
+#3 C:\xampp\htdocs\lfi2022\wp-includes\shortcodes.php(356): WS_Add_payform(Array, '', 'wp-systempay')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 C:\xampp\htdocs\lfi2022\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(wp\\-sy...', 'do_shortcode_ta...', '[wp-systempay i...')
+#6 C:\xampp\htdocs\lfi2022\wp-content\plugins\elementor\includes\widgets\shortcode.php(130): do_shortcode('[wp-systempay i...')
+#7 C:\xampp\htdocs\lfi2022 dans C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php à la ligne 118
+
+2022-05-07T21:26:58+00:00 CRITICAL Uncaught Error: Call to undefined function split() in C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php:118
+Stack trace:
+#0 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\templates\forms_templates\default_form.php(18): WSForms->getFormType(Array, 0)
+#1 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php(86): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\shortcodes\ws_shortcode.php(29): WSForms->getFormById('1', false)
+#3 C:\xampp\htdocs\lfi2022\wp-includes\shortcodes.php(356): WS_Add_payform(Array, '', 'wp-systempay')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 C:\xampp\htdocs\lfi2022\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(wp\\-sy...', 'do_shortcode_ta...', '[wp-systempay i...')
+#6 C:\xampp\htdocs\lfi2022\wp-content\plugins\elementor\includes\widgets\shortcode.php(130): do_shortcode('[wp-systempay i...')
+#7 C:\xampp\htdocs\lfi2022 dans C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php à la ligne 118
+
+2022-05-07T21:27:40+00:00 CRITICAL Uncaught Error: Call to undefined function split() in C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php:118
+Stack trace:
+#0 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\templates\forms_templates\default_form.php(18): WSForms->getFormType(Array, 0)
+#1 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php(86): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\shortcodes\ws_shortcode.php(29): WSForms->getFormById('1', false)
+#3 C:\xampp\htdocs\lfi2022\wp-includes\shortcodes.php(356): WS_Add_payform(Array, '', 'wp-systempay')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 C:\xampp\htdocs\lfi2022\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(wp\\-sy...', 'do_shortcode_ta...', '<style>/*! elem...')
+#6 C:\xampp\htdocs\lfi2022\wp-includes\class-wp-hook.php(307): do_shortcode('<style>/*! elem...')
+#7 C:\xampp\htdocs\lfi2022\wp-includes\plugin.php(189):  dans C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php à la ligne 118
+
+2022-05-07T21:27:47+00:00 CRITICAL Uncaught Error: Call to undefined function split() in C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php:118
+Stack trace:
+#0 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\templates\forms_templates\default_form.php(18): WSForms->getFormType(Array, 0)
+#1 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php(86): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\shortcodes\ws_shortcode.php(29): WSForms->getFormById('1', false)
+#3 C:\xampp\htdocs\lfi2022\wp-includes\shortcodes.php(356): WS_Add_payform(Array, '', 'wp-systempay')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 C:\xampp\htdocs\lfi2022\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(wp\\-sy...', 'do_shortcode_ta...', '[wp-systempay i...')
+#6 C:\xampp\htdocs\lfi2022\wp-content\plugins\elementor\includes\widgets\shortcode.php(130): do_shortcode('[wp-systempay i...')
+#7 C:\xampp\htdocs\lfi2022 dans C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php à la ligne 118
+
+2022-05-07T21:27:53+00:00 CRITICAL Uncaught Error: Call to undefined function split() in C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php:118
+Stack trace:
+#0 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\templates\forms_templates\default_form.php(18): WSForms->getFormType(Array, 0)
+#1 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php(86): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\shortcodes\ws_shortcode.php(29): WSForms->getFormById('1', false)
+#3 C:\xampp\htdocs\lfi2022\wp-includes\shortcodes.php(356): WS_Add_payform(Array, '', 'wp-systempay')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 C:\xampp\htdocs\lfi2022\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(wp\\-sy...', 'do_shortcode_ta...', '[wp-systempay i...')
+#6 C:\xampp\htdocs\lfi2022\wp-content\plugins\elementor\includes\widgets\shortcode.php(130): do_shortcode('[wp-systempay i...')
+#7 C:\xampp\htdocs\lfi2022 dans C:\xampp\htdocs\lfi2022\wp-content\plugins\wp-systempay-master\front\ws_forms.class.php à la ligne 118
+
+2022-05-07T21:34:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-includes\plugin.php à la ligne 174
+
+2022-05-07T21:34:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-includes\post.php à la ligne 1012
+
+2022-05-07T21:34:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-includes\cache.php à la ligne 125
+
+2022-05-07T21:34:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php à la ligne 363
+
+2022-05-07T21:39:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-content\plugins\woocommerce\includes\wc-template-functions.php à la ligne 146
+
+2022-05-07T21:39:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php à la ligne 324
+
+2022-05-07T21:47:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-includes\plugin.php à la ligne 189
+
+2022-05-07T21:47:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-includes\functions.php à la ligne 46
+
+2022-05-07T22:33:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-includes\class-wp-object-cache.php à la ligne 494
+
+2022-05-07T22:34:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php à la ligne 836
+
+2022-05-07T22:41:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-content\plugins\woocommerce\includes\wc-template-functions.php à la ligne 146
+
+2022-05-07T22:42:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-includes\taxonomy.php à la ligne 953
+
+2022-05-07T22:55:16+00:00 CRITICAL Uncaught Error: Call to a member function update_meta() on null in C:\xampp\htdocs\lfi2022\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php:286
+Stack trace:
+#0 C:\xampp\htdocs\lfi2022\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php(167): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(8, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 C:\xampp\htdocs\lfi2022\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 C:\xampp\htdocs\lfi2022\wp-includes\class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 C:\xampp\htdocs\lfi2022\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\lfi2022\wp-includes dans C:\xampp\htdocs\lfi2022\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php à la ligne 286
+
+2022-05-07T22:58:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php à la ligne 788
+
+2022-05-07T23:05:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-content\plugins\woocommerce\includes\class-wc-datetime.php à la ligne 59
+
+2022-05-07T23:05:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-includes\plugin.php à la ligne 174
+
+2022-05-07T23:22:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php à la ligne 818
+
+2022-05-07T23:35:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-includes\taxonomy.php à la ligne 1696
+
+2022-05-07T23:35:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php à la ligne 836
+
+2022-05-07T23:35:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php à la ligne 1262
+
+2022-05-07T23:37:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\lfi2022\wp-includes\pomo\translations.php à la ligne 91
+

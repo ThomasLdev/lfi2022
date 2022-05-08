@@ -1,0 +1,1480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Systempay for WooCommerce 1.9.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-04 17:25+0100\n"
+"PO-Revision-Date: 2021-07-08 09:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: Lyra Network <supportvad@lyra-network.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class-wc-gateway-systempay.php:49 ../class-wc-gateway-systempay.php:60
+#: ../woo-systempay-payment.php:198
+msgid "General configuration"
+msgstr "Configuración general"
+
+#: ../class-wc-gateway-systempay.php:191
+msgid "Gateway disabled"
+msgstr "Portal deshabilitado"
+
+#: ../class-wc-gateway-systempay.php:191
+#, php-format
+msgid "%s does not support your store currency."
+msgstr "%s no es compatible con la moneda de su tienda."
+
+#: ../class-wc-gateway-systempay.php:197
+#, php-format
+msgid "Your %s module configuration is successfully reset."
+msgstr "La configuración de su módulo %s se restableció correctamente."
+
+#: ../class-wc-gateway-systempay.php:211
+#, php-format
+msgid ""
+"The module works by sending users to %s in order to select their payment mean "
+"and enter their payment information."
+msgstr ""
+"El módulo trabaja al enviar usuarios a %s para seleccionar su medio de pago e "
+"ingresar su información de pago."
+
+#: ../class-wc-gateway-systempay.php:223
+msgid "Reset configuration"
+msgstr "Restablecer configuración"
+
+#: ../class-wc-gateway-systempay.php:263
+#, php-format
+msgid "%s general configuration"
+msgstr "Configuración general %s"
+
+#: ../class-wc-gateway-systempay.php:264
+#: ../class-wc-gateway-systempayfranfinance.php:190
+#, php-format
+msgid "%s Back Office configuration"
+msgstr "Configuración del Back Office %s"
+
+#: ../class-wc-gateway-systempay.php:265
+msgid "Automatic"
+msgstr "Automático"
+
+#: ../class-wc-gateway-systempay.php:266
+msgid "Manual"
+msgstr "Manual"
+
+#: ../class-wc-gateway-systempay.php:279
+msgid "Food and grocery"
+msgstr "Alimentos y compras"
+
+#: ../class-wc-gateway-systempay.php:280
+msgid "Automotive"
+msgstr "Automotriz"
+
+#: ../class-wc-gateway-systempay.php:281
+msgid "Entertainment"
+msgstr "Entretenimiento"
+
+#: ../class-wc-gateway-systempay.php:282
+msgid "Home and garden"
+msgstr "Hogar y jardín"
+
+#: ../class-wc-gateway-systempay.php:283
+msgid "Home appliance"
+msgstr "Electrodoméstico"
+
+#: ../class-wc-gateway-systempay.php:284
+msgid "Auction and group buying"
+msgstr "Subasta y compra en grupo"
+
+#: ../class-wc-gateway-systempay.php:285
+msgid "Flowers and gifts"
+msgstr "Flores y regalos"
+
+#: ../class-wc-gateway-systempay.php:286
+msgid "Computer and software"
+msgstr "Computadoras y software"
+
+#: ../class-wc-gateway-systempay.php:287
+msgid "Health and beauty"
+msgstr "Salud y belleza"
+
+#: ../class-wc-gateway-systempay.php:288
+msgid "Service for individual"
+msgstr "Servicios personales"
+
+#: ../class-wc-gateway-systempay.php:289
+msgid "Service for business"
+msgstr "Servicios comerciales"
+
+#: ../class-wc-gateway-systempay.php:290
+msgid "Sports"
+msgstr "Deportes"
+
+#: ../class-wc-gateway-systempay.php:291
+msgid "Clothing and accessories"
+msgstr "Ropa y accesorios"
+
+#: ../class-wc-gateway-systempay.php:292
+msgid "Travel"
+msgstr "Viajes"
+
+#: ../class-wc-gateway-systempay.php:293
+msgid "Home audio, photo, video"
+msgstr "Audio, foto y video para el hogar"
+
+#: ../class-wc-gateway-systempay.php:294
+msgid "Telephony"
+msgstr "Telefonía"
+
+#: ../class-wc-gateway-systempay.php:303
+msgid "(Use category mapping below)"
+msgstr "(Use la asignación de categoría a continuación)"
+
+#: ../class-wc-gateway-systempay.php:312
+msgid "Method title to display on payment means page."
+msgstr "Título del método a mostrar en la página de medios de pago."
+
+#: ../class-wc-gateway-systempay.php:317
+msgid "This controls the description which the user sees during checkout."
+msgstr "Esto controla la descripción que el usuario ve durante el pago."
+
+#: ../class-wc-gateway-systempay.php:379
+msgid "Click to view the module configuration documentation: "
+msgstr "Haga clic para ver la documentación de la configuración del módulo: "
+
+#: ../class-wc-gateway-systempay.php:393
+msgid "MODULE DETAILS"
+msgstr "DETALLES DEL MÓDULO"
+
+#: ../class-wc-gateway-systempay.php:397
+msgid "Developed by"
+msgstr "Desarrollado por"
+
+#: ../class-wc-gateway-systempay.php:403
+msgid "Contact us"
+msgstr "Contáctenos"
+
+#: ../class-wc-gateway-systempay.php:409
+msgid "Module version"
+msgstr "Versión del módulo"
+
+#: ../class-wc-gateway-systempay.php:415
+msgid "Gateway version"
+msgstr "Versión del portal"
+
+#: ../class-wc-gateway-systempay.php:430
+msgid "BASE SETTINGS"
+msgstr "CONFIGURACIÓN BASE"
+
+#: ../class-wc-gateway-systempay.php:434
+msgid "Logs"
+msgstr "Registros"
+
+#: ../class-wc-gateway-systempay.php:435 ../class-wc-gateway-systempay.php:627
+#: ../class-wc-gateway-systempayregroupedother.php:102
+#: ../class-wc-gateway-systempaystd.php:244
+msgid "Enable / disable"
+msgstr "Habilitar/deshabilitar"
+
+#: ../class-wc-gateway-systempay.php:438
+#, php-format
+msgid ""
+"Enable / disable module logs. The log file will be inside <code>%s</code>."
+msgstr ""
+"Habilitar/deshabilitar registros del módulo. El archivo de registro estará "
+"dentro de <code>%s</code>."
+
+#: ../class-wc-gateway-systempay.php:443
+msgid "PAYMENT GATEWAY ACCESS"
+msgstr "ACCESO AL PORTAL DE PAGO"
+
+#: ../class-wc-gateway-systempay.php:447
+msgid "Shop ID"
+msgstr "ID de tienda"
+
+#: ../class-wc-gateway-systempay.php:450
+#, php-format
+msgid "The identifier provided by %s."
+msgstr "El identificador proporcionado por %s."
+
+#: ../class-wc-gateway-systempay.php:454
+msgid "Key in test mode"
+msgstr "Clave en modo test"
+
+#: ../class-wc-gateway-systempay.php:457
+#, php-format
+msgid "Key provided by %s for test mode (available in %s Back Office)."
+msgstr ""
+"Clave proporcionada por %s para modo test (disponible en el Back Office %s)."
+
+#: ../class-wc-gateway-systempay.php:461
+msgid "Key in production mode"
+msgstr "Clave en modo production"
+
+#: ../class-wc-gateway-systempay.php:464
+#, php-format
+msgid ""
+"Key provided by %s (available in %s Back Office after enabling production "
+"mode)."
+msgstr ""
+"Clave proporcionada por %s (disponible en el Back Office %s después de "
+"habilitar el modo production)."
+
+#: ../class-wc-gateway-systempay.php:468
+msgid "Mode"
+msgstr "Modo"
+
+#: ../class-wc-gateway-systempay.php:472
+msgid "TEST"
+msgstr "TEST"
+
+#: ../class-wc-gateway-systempay.php:473
+msgid "PRODUCTION"
+msgstr "PRODUCTION"
+
+#: ../class-wc-gateway-systempay.php:475
+msgid "The context mode of this module."
+msgstr "El modo de contexto de este módulo."
+
+#: ../class-wc-gateway-systempay.php:479
+msgid "Signature algorithm"
+msgstr "Algoritmo de firma"
+
+#: ../class-wc-gateway-systempay.php:486
+#, php-format
+msgid ""
+"Algorithm used to compute the payment form signature. Selected algorithm must "
+"be the same as one configured in the %s Back Office.<br /><b>The HMAC-SHA-256 "
+"algorithm should not be activated if it is not yet available in the %s Back "
+"Office, the feature will be available soon.</b>"
+msgstr ""
+"Algoritmo usado para calcular la firma del formulario de pago. El algoritmo "
+"seleccionado debe ser el mismo que el configurado en el Back Office %s.<br /"
+"><b>El algoritmo HMAC-SHA-256 no se debe activar si aún no está disponible en "
+"el Back Office %s, la función estará disponible pronto.</b>"
+
+#: ../class-wc-gateway-systempay.php:490
+msgid "Instant Payment Notification URL"
+msgstr "URL de notificación de pago instantáneo"
+
+#: ../class-wc-gateway-systempay.php:493
+#, php-format
+msgid "URL to copy into your %s Back Office > Settings > Notification rules."
+msgstr ""
+"URL a copiar en el Back Office %s > Configuración > Reglas de notificación."
+
+#: ../class-wc-gateway-systempay.php:497
+msgid "Payment page URL"
+msgstr "URL de página de pago"
+
+#: ../class-wc-gateway-systempay.php:500
+msgid "Link to the payment page."
+msgstr "Enlace a la página de pago."
+
+#: ../class-wc-gateway-systempay.php:506
+msgid "REST API keys"
+msgstr "Claves de API REST"
+
+#: ../class-wc-gateway-systempay.php:508
+#, php-format
+msgid ""
+"REST API keys are available in your %s Back Office (menu: Settings > Shops > "
+"REST API keys).<br><br>Configure this section if you are using order "
+"operations from WooCommerce Back Office or if you are using embedded payment "
+"fields or popin modes."
+msgstr ""
+"Las claves de API REST están disponibles en el Back Office %s (menú: "
+"Configuración > Tiendas > Claves de API REST).<br><br>Configure esta sección "
+"si está utilizando operaciones de pedido desde el Back Office de WooCommerce o "
+"si está utilizando los modos campos de pago incrustados o popin."
+
+#: ../class-wc-gateway-systempay.php:511
+msgid "Test password"
+msgstr "Contraseña de test"
+
+#: ../class-wc-gateway-systempay.php:517
+msgid "Production password"
+msgstr "Contraseña de producción"
+
+#: ../class-wc-gateway-systempay.php:523
+msgid "API REST server URL"
+msgstr "URL del servidor API REST"
+
+#: ../class-wc-gateway-systempay.php:531
+msgid ""
+"Configure this section only if you are using embedded payment fields or popin "
+"modes."
+msgstr ""
+"Configure esta sección solos si está utilizando los modos campos de pago "
+"incrustados o popin."
+
+#: ../class-wc-gateway-systempay.php:534
+msgid "Public test key"
+msgstr "Clave pública de test"
+
+#: ../class-wc-gateway-systempay.php:540
+msgid "Public production key"
+msgstr "Clave pública de producción"
+
+#: ../class-wc-gateway-systempay.php:546
+msgid "HMAC-SHA-256 test key"
+msgstr "Clave HMAC-SHA-256 de test"
+
+#: ../class-wc-gateway-systempay.php:552
+msgid "HMAC-SHA-256 production key"
+msgstr "Clave HMAC-SHA-256 de producción"
+
+#: ../class-wc-gateway-systempay.php:558
+msgid "JavaScript client URL"
+msgstr "URL del cliente JavaScript"
+
+#: ../class-wc-gateway-systempay.php:564
+msgid "API REST Notification URL"
+msgstr "URL de notificación de API REST"
+
+#: ../class-wc-gateway-systempay.php:568
+#, php-format
+msgid ""
+"URL to copy into your %s Back Office > Settings > Notification rules.<br>In "
+"multistore mode, notification URL is the same for all the stores."
+msgstr ""
+"URL a copiar en el Back Office %s > Configuración > Reglas de notificación."
+"<br />En modo multitienda, la URL de notificación es la misma para todas las "
+"tiendas."
+
+#: ../class-wc-gateway-systempay.php:574 ../class-wc-gateway-systempaystd.php:304
+msgid "PAYMENT PAGE"
+msgstr "PÁGINA DE PAGO"
+
+#: ../class-wc-gateway-systempay.php:578
+msgid "Default language"
+msgstr "Idioma por defecto"
+
+#: ../class-wc-gateway-systempay.php:582
+msgid "Default language on the payment page."
+msgstr "Idioma por defecto en la página de pago."
+
+#: ../class-wc-gateway-systempay.php:586
+msgid "Available languages"
+msgstr "Idiomas disponibles"
+
+#: ../class-wc-gateway-systempay.php:590
+msgid ""
+"Languages available on the payment page. If you do not select any, all the "
+"supported languages will be available."
+msgstr ""
+"Idiomas disponibles en la página de pago. Si no selecciona ninguno, todos los "
+"idiomas compatibles estarán disponibles."
+
+#: ../class-wc-gateway-systempay.php:594 ../class-wc-gateway-systempaystd.php:308
+msgid "Capture delay"
+msgstr "Plazo de captura"
+
+#: ../class-wc-gateway-systempay.php:597
+#, php-format
+msgid ""
+"The number of days before the bank capture (adjustable in your %s Back Office)."
+msgstr ""
+"El número de días antes de la captura del pago (ajustable en su Back Office de "
+"%s)."
+
+#: ../class-wc-gateway-systempay.php:600
+#: ../class-wc-gateway-systempayregroupedother.php:140
+#: ../class-wc-gateway-systempaystd.php:314
+msgid "Validation mode"
+msgstr "Modo de validación"
+
+#: ../class-wc-gateway-systempay.php:604 ../class-wc-gateway-systempaystd.php:318
+#, php-format
+msgid ""
+"If manual is selected, you will have to confirm payments manually in your %s "
+"Back Office."
+msgstr ""
+"Si se selecciona manual, deberá confirmar los pagos manualmente en su Back "
+"Office %s."
+
+#: ../class-wc-gateway-systempay.php:610
+msgid "CUSTOM 3DS"
+msgstr "3DS PERSONALIZADO"
+
+#: ../class-wc-gateway-systempay.php:614
+msgid "Manage 3DS"
+msgstr "Gestionar el 3DS"
+
+#: ../class-wc-gateway-systempay.php:617
+msgid ""
+"Amount below which customer could be exempt from strong authentication. Needs "
+"subscription to «Selective 3DS1» or «Frictionless 3DS2» options. For more "
+"information, refer to the module documentation."
+msgstr ""
+"Monto por debajo del cual el comprador podría estar exento de de la "
+"autenticación fuerte. Requiere suscripción a la opción «Selective 3DS1» o a la "
+"opción «Frictionless 3DS2». Para más información, consulte la documentación "
+"del módulo."
+
+#: ../class-wc-gateway-systempay.php:622
+msgid "RETURN OPTIONS"
+msgstr "OPCIONES PARA REGRESAR"
+
+#: ../class-wc-gateway-systempay.php:626
+msgid "Automatic redirection"
+msgstr "Redirección automática"
+
+#: ../class-wc-gateway-systempay.php:630
+msgid ""
+"If enabled, the buyer is automatically redirected to your site at the end of "
+"the payment."
+msgstr ""
+"Si está habilitada, el comprador es redirigido automáticamente a su sitio al "
+"final del pago."
+
+#: ../class-wc-gateway-systempay.php:633
+msgid "Redirection timeout on success"
+msgstr "Tiempo de espera de la redirección en pago exitoso"
+
+#: ../class-wc-gateway-systempay.php:636
+msgid ""
+"Time in seconds (0-300) before the buyer is automatically redirected to your "
+"website after a successful payment."
+msgstr ""
+"Tiempo en segundos (0-300) antes de que el comprador sea redirigido "
+"automáticamente a su sitio web después de un pago exitoso."
+
+#: ../class-wc-gateway-systempay.php:639
+msgid "Redirection message on success"
+msgstr "Mensaje de redirección en pago exitoso"
+
+#: ../class-wc-gateway-systempay.php:648
+msgid ""
+"Message displayed on the payment page prior to redirection after a successful "
+"payment."
+msgstr ""
+"Mensaje mostrado en la página de pago antes de la redirección después de un "
+"pago exitoso."
+
+#: ../class-wc-gateway-systempay.php:652
+msgid "Redirection timeout on failure"
+msgstr "Tiempo de espera de la redirección en pago rechazado"
+
+#: ../class-wc-gateway-systempay.php:655
+msgid ""
+"Time in seconds (0-300) before the buyer is automatically redirected to your "
+"website after a declined payment."
+msgstr ""
+"Tiempo en segundos (0-300) antes de que el comprador sea redirigido "
+"automáticamente a su sitio web después de un pago rechazado."
+
+#: ../class-wc-gateway-systempay.php:658
+msgid "Redirection message on failure"
+msgstr "Mensaje de redirección en pago rechazado"
+
+#: ../class-wc-gateway-systempay.php:667
+msgid ""
+"Message displayed on the payment page prior to redirection after a declined "
+"payment."
+msgstr ""
+"Mensaje mostrado en la página de pago antes de la redirección después de un "
+"pago rechazado."
+
+#: ../class-wc-gateway-systempay.php:671
+msgid "Return mode"
+msgstr "Modo de retorno"
+
+#: ../class-wc-gateway-systempay.php:678
+msgid ""
+"Method that will be used for transmitting the payment result from the payment "
+"page to your shop."
+msgstr ""
+"Método que se usará para transmitir el resultado del pago de la página de pago "
+"a su tienda."
+
+#: ../class-wc-gateway-systempay.php:682
+msgid "Order Status"
+msgstr "Estado del pedido"
+
+#: ../class-wc-gateway-systempay.php:686
+msgid "Defines the status of orders paid with this payment mode."
+msgstr "Define el estado de los pedidos pagados con este modo de pago."
+
+#: ../class-wc-gateway-systempay.php:692
+msgid "ADDITIONAL OPTIONS"
+msgstr "OPCIONES ADICIONALES"
+
+#: ../class-wc-gateway-systempay.php:694
+msgid ""
+"Configure this section if you are using advanced risk assessment module or if "
+"you are proposing payment means requiring cart data (Franfinance or Klarna)."
+msgstr ""
+"Configure esta sección si usa el módulo de evaluación de riesgos avanzada o si "
+"propose medios de pago que requieren datos del carrito (Franfinance o Klarna)."
+
+#: ../class-wc-gateway-systempay.php:700
+msgid "Category mapping"
+msgstr "Asignación de categoría"
+
+#: ../class-wc-gateway-systempay.php:703
+msgid "Use the same category for all products."
+msgstr "Use la misma categoría para todos los productos."
+
+#: ../class-wc-gateway-systempay.php:710
+msgid "Product category"
+msgstr "Categoría de producto"
+
+#: ../class-wc-gateway-systempay.php:715
+#, php-format
+msgid "%s category"
+msgstr "Categoría de %s"
+
+#: ../class-wc-gateway-systempay.php:722
+#, php-format
+msgid ""
+"Match each product category with a %s product category. <br /><b>Entries "
+"marked with * are newly added and must be configured.</b>"
+msgstr ""
+"Haga coincidir cada categoría de producto con una categoría de producto de %s. "
+"<br /><b>Las entradas marcadas con * son agregadas recientemente y se deben "
+"configurar.</b>"
+
+#: ../class-wc-gateway-systempay.php:1034 ../class-wc-gateway-systempay.php:1050
+msgid "Add"
+msgstr "Agregar"
+
+#: ../class-wc-gateway-systempay.php:1324 ../class-wc-gateway-systempay.php:1371
+#: ../class-wc-gateway-systempay.php:1650 ../class-wc-gateway-systempaystd.php:1880
+#: ../class-wc-gateway-systempaystd.php:1904 ../class-wc-gateway-systempaystd.php:1922
+msgid "An error has occurred in the payment process."
+msgstr "Ocurrió un error en el proceso de pago."
+
+#: ../class-wc-gateway-systempay.php:1379
+msgid ""
+"<p><u>GOING INTO PRODUCTION</u></p>You want to know how to put your shop into "
+"production mode, please read chapters « Proceeding to test phase » and « "
+"Shifting the shop to production mode » in the documentation of the module."
+msgstr ""
+"<p><u>IR A PRODUCTION</u></p>Si desea saber cómo poner su tienda en modo "
+"production, lea los capítulos « Proceder a la fase de prueba » y « Paso de una "
+"tienda al modo producción » en la documentación del módulo."
+
+#: ../class-wc-gateway-systempay.php:1456
+#, php-format
+msgid ""
+"The automatic validation has not worked. Have you correctly set up the "
+"notification URL in the %s Back Office?"
+msgstr ""
+"La validación automática no ha funcionado. ¿Configuró correctamente la URL de "
+"notificación en su Back Office %s?"
+
+#: ../class-wc-gateway-systempay.php:1458
+msgid ""
+"For understanding the problem, please read the documentation of the module : "
+"<br />&nbsp;&nbsp;&nbsp;- Chapter &laquo; To read carefully before going "
+"further &raquo;<br />&nbsp;&nbsp;&nbsp;- Chapter &laquo; Notification URL "
+"settings &raquo;"
+msgstr ""
+"Para entender el problema, lea la documentación del módulo: <br />&nbsp;&nbsp;"
+"&nbsp;- Capítulo &laquo; Leer detenidamente antes de continuar &raquo;<br /"
+">&nbsp;&nbsp;&nbsp;- Capítulo &laquo; Configuración de la URL de notificación "
+"&raquo;"
+
+#: ../class-wc-gateway-systempay.php:1482 ../class-wc-gateway-systempay.php:1634
+msgid "Your payment was not accepted. Please, try to re-order."
+msgstr "Su pago no fue aceptado. Intente realizar de nuevo el pedido."
+
+#: ../class-wc-gateway-systempay.php:1559
+msgid "Payment method updated."
+msgstr "Método de pago actualizado."
+
+#: ../class-wc-gateway-systempay.php:1572
+msgid "The payment method can not be changed for that subscription."
+msgstr "No se puede cambiar el método de pago para esa suscripción."
+
+#: ../class-wc-gateway-systempay.php:1745 ../class-wc-gateway-systempay.php:1747
+msgid "Payment"
+msgstr "Pago"
+
+#: ../class-wc-gateway-systempay.php:1829
+msgid "Card brand chosen by buyer."
+msgstr "Marca de tarjeta elegida por el comprador."
+
+#: ../class-wc-gateway-systempay.php:1831
+msgid "Default card brand used."
+msgstr "Marca de tarjeta por defecto en uso."
+
+#: ../class-wc-gateway-systempay.php:1840
+msgid "3DS authentication: "
+msgstr "Autenticación 3DS: "
+
+#: ../class-wc-gateway-systempay.php:1846
+msgid "3DS certificate: "
+msgstr "Certificado 3DS: "
+
+#: ../class-wc-gateway-systempay.php:1851
+msgid "Authentication type: "
+msgstr "Tipo de autenticación: "
+
+#: ../class-wc-gateway-systempay.php:1861
+#, php-format
+msgid "Transaction ID: %s."
+msgstr "ID de transacción: %s."
+
+#: ../class-wc-gateway-systempay.php:1865
+#, php-format
+msgid "Transaction UUID: %s."
+msgstr "UUID de transacción: %s."
+
+#: ../class-wc-gateway-systempay.php:1871
+#, php-format
+msgid "Transaction status: %s."
+msgstr "Estado de la transacción: %s."
+
+#: ../class-wc-gateway-systempay.php:1936
+msgid "On Hold"
+msgstr "Espere"
+
+#: ../class-wc-gateway-systempay.php:1937
+msgid "Processing"
+msgstr "Procesando"
+
+#: ../class-wc-gateway-systempay.php:1938
+msgid "Complete"
+msgstr "Completo"
+
+#: ../class-wc-gateway-systempay.php:1943
+msgid "Default"
+msgstr "Por defecto"
+
+#: ../class-wc-gateway-systempay.php:2137
+msgid "The stored means of payment could not be deleted."
+msgstr "The stored means of payment could not be deleted."
+
+#: ../class-wc-gateway-systempay.php:2154
+msgid "The stored means of payment was successfully deleted."
+msgstr "The stored means of payment was successfully deleted."
+
+#: ../class-wc-gateway-systempaychoozeo.php:27
+msgid "Choozeo payment"
+msgstr "Pago Choozeo"
+
+#: ../class-wc-gateway-systempaychoozeo.php:77
+msgid "Enables / disables Choozeo payment."
+msgstr "Habilita/deshabilita el pago con Choozeo."
+
+#: ../class-wc-gateway-systempaychoozeo.php:79
+msgid "Payment with Choozeo without fees"
+msgstr "Pago con Choozeo sin gastos"
+
+#: ../class-wc-gateway-systempaychoozeo.php:98
+msgid "CHOOZEO PAYMENT OPTIONS"
+msgstr "OPCIONES DE PAGO CON CHOOZEO"
+
+#: ../class-wc-gateway-systempaychoozeo.php:104
+#: ../class-wc-gateway-systempayfranfinance.php:101
+#: ../class-wc-gateway-systempaymulti.php:115
+#: ../class-wc-gateway-systempayregroupedother.php:115
+#: ../class-wc-gateway-systempayregroupedother.php:171
+msgid "Label"
+msgstr "Etiqueta"
+
+#: ../class-wc-gateway-systempaychoozeo.php:109
+#: ../class-wc-gateway-systempayfranfinance.php:117
+#: ../class-wc-gateway-systempaymulti.php:120
+#: ../class-wc-gateway-systempayregroupedother.php:125
+msgid "Min amount"
+msgstr "Monto mínimo"
+
+#: ../class-wc-gateway-systempaychoozeo.php:114
+#: ../class-wc-gateway-systempayfranfinance.php:122
+#: ../class-wc-gateway-systempaymulti.php:125
+#: ../class-wc-gateway-systempayregroupedother.php:130
+msgid "Max amount"
+msgstr "Monto máximo"
+
+#: ../class-wc-gateway-systempaychoozeo.php:119
+#: ../class-wc-gateway-systempayfranfinance.php:127
+#: ../class-wc-gateway-systempaymulti.php:154
+msgid "Payment options"
+msgstr "Opciones de pago"
+
+#: ../class-wc-gateway-systempaychoozeo.php:126
+msgid "Define amount restriction for each card."
+msgstr "Defina la restricción del monto para cada tarjeta."
+
+#: ../class-wc-gateway-systempaychoozeo.php:318
+#: ../class-wc-gateway-systempayfranfinance.php:324
+#: ../class-wc-gateway-systempaymulti.php:318
+msgid "Your payment option"
+msgstr "Su opción de pago"
+
+#: ../class-wc-gateway-systempaychoozeo.php:320
+#: ../class-wc-gateway-systempayfranfinance.php:331
+#: ../class-wc-gateway-systempaymulti.php:325
+msgid "Choose your payment option"
+msgstr "Elija su opción de pago"
+
+#: ../class-wc-gateway-systempayfranfinance.php:27
+msgid "Franfinance payment"
+msgstr "Pago Franfinance"
+
+#: ../class-wc-gateway-systempayfranfinance.php:78
+msgid "Enables / disables Franfinance payment."
+msgstr "Habilita/deshabilita el pago con Franfinance."
+
+#: ../class-wc-gateway-systempayfranfinance.php:80
+msgid "Payment with Franfinance"
+msgstr "Pago con Franfinance"
+
+#: ../class-wc-gateway-systempayfranfinance.php:95
+msgid "FRANFINANCE PAYMENT OPTIONS"
+msgstr "OPCIONES DE PAGO CON FRANFINANCE"
+
+#: ../class-wc-gateway-systempayfranfinance.php:106
+#: ../class-wc-gateway-systempaymulti.php:139
+msgid "Count"
+msgstr "Conteo"
+
+#: ../class-wc-gateway-systempayfranfinance.php:111
+msgid "Fees"
+msgstr "Gastos"
+
+#: ../class-wc-gateway-systempayfranfinance.php:131
+#: ../class-wc-gateway-systempayfranfinance.php:132
+#: ../class-wc-gateway-systempayfranfinance.php:247
+#, php-format
+msgid "Payment in %s times"
+msgstr "Pago en %s veces"
+
+#: ../class-wc-gateway-systempayfranfinance.php:134
+#, php-format
+msgid ""
+"Click on « Add » button to configure one or more payment options.<br /"
+"><b>Label: </b>The option label to display on the frontend (the %c pattern "
+"will be replaced by payments count).<br /><b>Count: </b>Total number of "
+"payments.<br /><b>Fees: </b>Choose whether or not to apply fees.<br /><b>Min. "
+"amount: </b>Minimum amount to enable the payment option.<br /><b>Max. amount: "
+"</b>Maximum amount to enable the payment option.<br /><b>Do not forget to "
+"click on « Save » button to save your modifications.</b>"
+msgstr ""
+"Haga clic en el botón « Agregar » para configurar una o más opciones de pago."
+"<br /><b>Etiqueta: </b>La etiqueta de opción a mostrar en el frontend (el "
+"patrón %c se reemplazara por el conteo de pagos).</b><b>Conteo: </b>Número "
+"total de pagos.<br /><b>Gastos: </b>Habilita o desabilita la aplicación de los "
+"gastos.<br /><b>Monto mínimo: </b>Monto mínimo para habilitar la opción de "
+"pago.<br /><b>Monto máximo: </b>Monto máximo para habilitar la opción de pago.."
+"<br /><b>No olvide hacer clic en el botón « Guardar » para guardar sus "
+"modificaciones.</b>"
+
+#: ../class-wc-gateway-systempayfranfinance.php:190
+msgid "Without fees"
+msgstr "Sin gastos"
+
+#: ../class-wc-gateway-systempayfranfinance.php:190
+msgid "With fees"
+msgstr "Con gastos"
+
+#: ../class-wc-gateway-systempayfranfinance.php:205
+#: ../class-wc-gateway-systempaymulti.php:211
+#: ../class-wc-gateway-systempayregroupedother.php:310 ../woo-systempay-payment.php:380
+msgid "Delete"
+msgstr "Eliminar"
+
+#: ../class-wc-gateway-systempayklarna.php:25
+msgid "Klarna payment"
+msgstr "Pago Klarna"
+
+#: ../class-wc-gateway-systempayklarna.php:74
+msgid "The number of days before the bank capture. Should be between 0 and 7."
+msgstr ""
+"El número de días antes de la captura por el adquirente. Debe ser entre 0 y 7."
+
+#: ../class-wc-gateway-systempayklarna.php:78
+msgid "Enables / disables Klarna payment."
+msgstr "Habilita/deshabilita el pago con Klarna."
+
+#: ../class-wc-gateway-systempayklarna.php:80
+msgid "Payment with Klarna"
+msgstr "Pago con Klarna"
+
+#: ../class-wc-gateway-systempaymulti.php:25 ../woo-systempay-payment.php:202
+msgid "Payment in installments"
+msgstr "Pago en cuotas"
+
+#: ../class-wc-gateway-systempaymulti.php:43
+msgid ""
+"ATTENTION: The payment in installments feature activation is subject to the "
+"prior agreement of Société Générale.<br />If you enable this feature while you "
+"have not the associated option, an error 10000 – INSTALLMENTS_NOT_ALLOWED or "
+"07 - PAYMENT_CONFIG will occur and the buyer will not be able to pay."
+msgstr ""
+"ATENCIÓN: La activación de la función de pago en cuotas está sujeta al acuerdo "
+"previo de Societé Générale.<br />Si habilita esta función cuando no tiene la "
+"opción asociada, ocurrirá un error 10000 – INSTALLMENTS_NOT_ALLOWED o 07 - "
+"PAYMENT_CONFIG y el comprador no podrá pagar."
+
+#: ../class-wc-gateway-systempaymulti.php:75
+msgid "Enables / disables multiple payment."
+msgstr "Habilita/deshabilita el pago múltiple."
+
+#: ../class-wc-gateway-systempaymulti.php:77
+msgid "Payment by credit card in installments"
+msgstr "Pago con tarjeta de crédito en cuotas"
+
+#: ../class-wc-gateway-systempaymulti.php:92
+msgid "Card type selection"
+msgstr "Selección del tipo de tarjeta"
+
+#: ../class-wc-gateway-systempaymulti.php:96
+msgid "On payment gateway"
+msgstr "En el portal de pago"
+
+#: ../class-wc-gateway-systempaymulti.php:97
+msgid "On merchant site"
+msgstr "En el sitio web vendedore"
+
+#: ../class-wc-gateway-systempaymulti.php:99
+msgid "Select where card type will be selected by buyer."
+msgstr "Elija el lugar donde el comprador seleccionará el tipo de tarjeta."
+
+#: ../class-wc-gateway-systempaymulti.php:104
+msgid "MULTIPLE PAYMENT OPTIONS"
+msgstr "OPCIONES DE PAGO MÚLTIPLE"
+
+#: ../class-wc-gateway-systempaymulti.php:109
+msgid ""
+"Click on \"Add\" button to configure one or more payment options.<br /"
+"><b>Label: </b>The option label to display on the frontend.<br /><b>Min "
+"amount: </b>Minimum amount to enable the payment option.<br /><b>Max amount: </"
+"b>Maximum amount to enable the payment option.<br /><b>Count: </b>Total number "
+"of payments.<br /><b>Period: </b>Delay (in days) between payments.<br /><b>1st "
+"payment: </b>Amount of first payment, in percentage of total amount. If empty, "
+"all payments will have the same amount.<br /><b>Do not forget to click on "
+"\"Save\" button to save your modifications.</b>"
+msgstr ""
+"Haga clic en el botón \"Agregar\" para configurar una o más opciones de pago."
+"<br /><b>Etiqueta: </b>La etiqueta de opción a mostrar en el frontend.<br /"
+"><b>Monto mínimo: </b>Monto mínimo para habilitar la opción de pago.<br /"
+"><b>Monto máximo: </b>Monto máximo para habilitar la opción de pago.<br /"
+"><b>Conteo: </b>Número total de pagos.<br /><b>Periodo: </b>Plazo (en días) "
+"entre pagos.<br /><b>Primer pago: </b>Monto del primer pago, en porcentaje del "
+"monto total. Si está vacío, todos los pagos tendrán el mismo monto.<br /><b>No "
+"olvide hacer clic en el botón \"Guardar\" para guardar sus modificaciones.</b>"
+
+#: ../class-wc-gateway-systempaymulti.php:131
+msgid "Contract"
+msgstr "Afiliación"
+
+#: ../class-wc-gateway-systempaymulti.php:135
+msgid ""
+"Click on \"Add\" button to configure one or more payment options.<br /"
+"><b>Label: </b>The option label to display on the frontend.<br /><b>Min "
+"amount: </b>Minimum amount to enable the payment option.<br /><b>Max amount: </"
+"b>Maximum amount to enable the payment option.<br /><b>Contract: </b>ID of the "
+"contract to use with the option (leave blank preferably).<br /><b>Count: </"
+"b>Total number of payments.<br /><b>Period: </b>Delay (in days) between "
+"payments.<br /><b>1st payment: </b>Amount of first payment, in percentage of "
+"total amount. If empty, all payments will have the same amount.<br /><b>Do not "
+"forget to click on \"Save\" button to save your modifications.</b>"
+msgstr ""
+"Haga clic en el botón \"Agregar\" para configurar una o más opciones de pago."
+"<br /><b>Etiqueta: </b>La etiqueta de opción a mostrar en el frontend.<br /"
+"><b>Monto mínimo: </b>Monto mínimo para habilitar la opción de pago.<br /"
+"><b>Monto máximo: </b>Monto máximo para habilitar la opción de pago.<br /"
+"><b>Afiliación: </b>ID de la afiliación a usar con la opción (dejar en blanco "
+"preferiblemente).<br /><b>Conteo: </b>Número total de pagos.<br /><b>Periodo: "
+"</b>Plazo (en días) entre pagos.<br /><b>Primer pago: </b>Monto del primer "
+"pago, en porcentaje del monto total. Si está vacío, todos los pagos tendrán el "
+"mismo monto.<br /><b>No olvide hacer clic en el botón \"Guardar\" para guardar "
+"sus modificaciones.</b>"
+
+#: ../class-wc-gateway-systempaymulti.php:144
+msgid "Period"
+msgstr "Periodo"
+
+#: ../class-wc-gateway-systempaymulti.php:149
+msgid "1st payment"
+msgstr "Primer pago"
+
+#: ../class-wc-gateway-systempayother.php:78
+#: ../class-wc-gateway-systempayregroupedother.php:393
+#, php-format
+msgid "Payment with %s"
+msgstr "Pago con %s"
+
+#: ../class-wc-gateway-systempayregroupedother.php:23
+#: ../class-wc-gateway-systempayregroupedother.php:79
+msgid "Other payment means"
+msgstr "Otros medios de pago"
+
+#: ../class-wc-gateway-systempayregroupedother.php:77
+msgid "Enables / disables this payment method."
+msgstr "Habilita/deshabilita este método de pago."
+
+#: ../class-wc-gateway-systempayregroupedother.php:94
+msgid "PAYMENT OPTIONS"
+msgstr "OPCIONES DE PAGO"
+
+#: ../class-wc-gateway-systempayregroupedother.php:101
+msgid "Regroup payment means"
+msgstr "Agrupar los medios de pago"
+
+#: ../class-wc-gateway-systempayregroupedother.php:105
+msgid ""
+"If this option is enabled, all the payment means added in this section will be "
+"displayed within the same payment submodule."
+msgstr ""
+"Si esta opción está habilitada, los medios de pago agregados en esta sección "
+"se mostrarán dentro del mismo submódulo de pago."
+
+#: ../class-wc-gateway-systempayregroupedother.php:110
+#, php-format
+msgid ""
+"Click on « Add » button to configure one or more payment means.<br /><b>Label: "
+"</b>The label of the means of payment to display on your site.<br /><b>Means "
+"of payment: </b>Choose the means of payment you want to propose.<br /"
+"><b>Countries: </b>Countries where the means of payment will be available. "
+"Leave blank to authorize all countries.<br /><b>Min. amount: </b>Minimum "
+"amount to enable the means of payment.<br /><b>Max. amount: </b>Maximum amount "
+"to enable the means of payment.<br /><b>Validation mode: </b>If manual is "
+"selected, you will have to confirm payments manually in your %s Back Office."
+"<br /><b>Capture delay: </b>The number of days before the bank capture. Enter "
+"value only if different from %s general configuration.<br /><b>Cart data: </"
+"b>If you disable this option, the shopping cart details will not be sent to "
+"the gateway. Attention, in some cases, this option has to be enabled. For more "
+"information, refer to the module documentation.<br /><b>Do not forget to click "
+"on « Save » button to save your modifications.</b>"
+msgstr ""
+"Haga clic en el botón « Agregar » para configurar un o más medios de pago.<br /"
+"><b>Etiqueta: </b>La etiqueta del medio de pago a mostrar en su sitio.<br /"
+"><b>Medio de pago: </b>Elija el medio de pago que desea ofrecer.<br /"
+"><b>Países: </b>Países donde estarán disponibles los medios de pago. Deje en "
+"blanco para permitir todos los países.<br /><b>Monto mínimo: </b>Monto "
+"mínimopara habilitar el medio de pago.<br /><b>Monto máximo: </b>Monto máximo "
+"para habilitar el medio de pago.<br /><b>Modo de validación: </b>Si se "
+"selecciona manual, deberá confirmar los pagos manualmente en su Back Office %s."
+"<br /><b>Plazo de captura: </b>El número de días antes de la captura por el "
+"adquirente. Ingrese el valor solo si es diferente a la configuración general "
+"de %s.<br /><b>Datos del carrito: </b>Si deshabilita esta opción, los detalles "
+"del carrito de la compra no se enviarán a la puerta de enlace. Atención, en "
+"algunos casos, esta opción tiene que estar habilitada. Para más información, "
+"consulte la documentación del módulo.<br /><b>No olvide hacer clic en el botón "
+"« Guardar» para guardar sus modificaciones.</b>"
+
+#: ../class-wc-gateway-systempayregroupedother.php:120 ../woo-systempay-payment.php:355
+msgid "Means of payment"
+msgstr "Medio de pago"
+
+#: ../class-wc-gateway-systempayregroupedother.php:135
+msgid "Countries"
+msgstr "Países"
+
+#: ../class-wc-gateway-systempayregroupedother.php:145
+msgid "Capture delay "
+msgstr "Plazo de captura "
+
+#: ../class-wc-gateway-systempayregroupedother.php:150
+msgid "Cart data"
+msgstr "Datos del carrito"
+
+#: ../class-wc-gateway-systempayregroupedother.php:155
+msgid "Payment means"
+msgstr "Medios de pago"
+
+#: ../class-wc-gateway-systempayregroupedother.php:162
+#, php-format
+msgid ""
+"Click on « Add » button to add one or more new payment means.<br /><b>Code: </"
+"b>The code of the means of payment as expected by %s gateway.<br /><b>Label: </"
+"b>The default label of the means of payment.<br /><b>Do not forget to click on "
+"« Save » button to save your modifications.</b>"
+msgstr ""
+"Haga clic en el botón « Agregar » para agregar uno o más medios de pago nuevos."
+"<br /><b>Código: </b>El código del medio de pago cómo esperado por la pasarela "
+"%s.<br /><b>Etiqueta: </b>La etiqueta predeterminada del medio de pago.<br /"
+"><b>No olvide hacer clic en el botón « Guardar » para guardar sus "
+"modificaciones.</b>"
+
+#: ../class-wc-gateway-systempayregroupedother.php:166
+msgid "Code"
+msgstr "Código"
+
+#: ../class-wc-gateway-systempayregroupedother.php:176
+msgid "Add payment means"
+msgstr "Agregar medios de pago"
+
+#: ../class-wc-gateway-systempayregroupedother.php:190
+msgid ""
+"Method title to display on payment means page. Used only if &laquo; Regroup "
+"payment means &raquo; option is enabled."
+msgstr ""
+"Título del método a mostrar en la página de medios de pago. Se usa solo si la "
+"opción &laquo; Agrupar los medios de pago &raquo; está habilitada."
+
+#: ../class-wc-gateway-systempayregroupedother.php:195
+msgid ""
+"This controls the description which the user sees during checkout. Used only "
+"if &laquo; Regroup payment means &raquo; option is enabled."
+msgstr ""
+"Esto controla la descripción que el usuario ve durante el pago. Se usa solo si "
+"la opción &laquo; Agrupar los medios de pago &raquo; está habilitada."
+
+#: ../class-wc-gateway-systempayregroupedother.php:279
+#: ../class-wc-gateway-systempayregroupedother.php:354
+msgid "Click to add countries."
+msgstr "Haga clic para agregar países."
+
+#: ../class-wc-gateway-systempayregroupedother.php:295
+#: ../class-wc-gateway-systempaystd.php:369
+msgid "No"
+msgstr "No"
+
+#: ../class-wc-gateway-systempayregroupedother.php:295
+#: ../class-wc-gateway-systempaystd.php:368
+msgid "Yes"
+msgstr "Sí"
+
+#: ../class-wc-gateway-systempaystd.php:29 ../woo-systempay-payment.php:199
+msgid "Standard payment"
+msgstr "Pago standard"
+
+#: ../class-wc-gateway-systempaystd.php:239
+msgid "MODULE SETTINGS"
+msgstr "CONFIGURACIÓN DEL MÓDULO"
+
+#: ../class-wc-gateway-systempaystd.php:243
+msgid "Activation"
+msgstr "Activación"
+
+#: ../class-wc-gateway-systempaystd.php:247
+msgid "Enables / disables standard payment."
+msgstr "Habilita/deshabilita el pago estándar."
+
+#: ../class-wc-gateway-systempaystd.php:250
+msgid "Title"
+msgstr "Título"
+
+#: ../class-wc-gateway-systempaystd.php:253
+msgid "Payment by credit card"
+msgstr "Pago con tarjeta de crédito"
+
+#: ../class-wc-gateway-systempaystd.php:256
+msgid "Description"
+msgstr "Descripción"
+
+#: ../class-wc-gateway-systempaystd.php:259
+msgid "You will enter payment data after order confirmation."
+msgstr "Usted ingresará los datos de pago después de la confirmación del pedido."
+
+#: ../class-wc-gateway-systempaystd.php:265
+msgid "RESTRICTIONS"
+msgstr "RESTRICCIONES"
+
+#: ../class-wc-gateway-systempaystd.php:272
+msgid "Restrict to some countries"
+msgstr "Restringir a algunos países"
+
+#: ../class-wc-gateway-systempaystd.php:276
+msgid "All allowed countries"
+msgstr "Todos los países permitidos"
+
+#: ../class-wc-gateway-systempaystd.php:277
+msgid "Specific countries"
+msgstr "Países específicos"
+
+#: ../class-wc-gateway-systempaystd.php:280
+msgid "Buyer's billing countries in which this payment method is available."
+msgstr ""
+"Países de facturación del comprador donde este método de pago está disponible."
+
+#: ../class-wc-gateway-systempaystd.php:283
+msgid "Authorized countries"
+msgstr "Países autorizados"
+
+#: ../class-wc-gateway-systempaystd.php:290
+msgid "Minimum amount"
+msgstr "Monto mínimo"
+
+#: ../class-wc-gateway-systempaystd.php:293
+msgid "Minimum amount to activate this payment method."
+msgstr "Monto mínimo para activar este método de pago."
+
+#: ../class-wc-gateway-systempaystd.php:296
+msgid "Maximum amount"
+msgstr "Monto máximo"
+
+#: ../class-wc-gateway-systempaystd.php:299
+msgid "Maximum amount to activate this payment method."
+msgstr "Monto máximo para activar este método de pago."
+
+#: ../class-wc-gateway-systempaystd.php:311
+#, php-format
+msgid ""
+"The number of days before the bank capture. Enter value only if different from "
+"%s general configuration."
+msgstr ""
+"El número de días antes de la captura por el adquirente. Ingrese el valor solo "
+"si es diferente a la configuración general %s."
+
+#: ../class-wc-gateway-systempaystd.php:322
+msgid "Card Types"
+msgstr "Tipos de tarjeta"
+
+#: ../class-wc-gateway-systempaystd.php:326
+msgid ""
+"The card type(s) that can be used for the payment. Select none to use gateway "
+"configuration."
+msgstr ""
+"El tipo(s) de tarjeta que se puede usar para el pago. No haga ninguna "
+"selección para usar la configuración del portal."
+
+#: ../class-wc-gateway-systempaystd.php:332
+msgid "ADVANCED OPTIONS"
+msgstr "OPCIONES AVANZADAS"
+
+#: ../class-wc-gateway-systempaystd.php:339
+msgid "Card data entry mode"
+msgstr "Modo de ingreso de datos de la tarjeta"
+
+#: ../class-wc-gateway-systempaystd.php:343
+msgid "Card data entry on payment gateway"
+msgstr "Ingreso de datos de la tarjeta en el portal de pago"
+
+#: ../class-wc-gateway-systempaystd.php:344
+msgid "Card type selection on merchant site"
+msgstr "Selección del tipo de tarjeta en el sitio web vendedor"
+
+#: ../class-wc-gateway-systempaystd.php:345
+msgid "Payment page integrated to checkout process (iframe)"
+msgstr "Página de pago integrada al proceso de pago (iframe)"
+
+#: ../class-wc-gateway-systempaystd.php:347
+msgid ""
+"Select how the credit card data will be entered by buyer. Think to update "
+"payment method description to match your selected mode."
+msgstr ""
+"Seleccione la forma en que el comprador ingresará los datos de la tarjeta de "
+"crédito. Considere actualizar la descripción del método de pago para que "
+"coincida con el módulo seleccionado."
+
+#: ../class-wc-gateway-systempaystd.php:354
+msgid "Embedded payment fields on merchant site (REST API)"
+msgstr "Campos de pago incrustados en el sitio web vendedor (API REST)"
+
+#: ../class-wc-gateway-systempaystd.php:355
+msgid "Embedded payment fields in a pop-in (REST API)"
+msgstr "Campos de pago incrustados en una ventana pop-in (API REST)"
+
+#: ../class-wc-gateway-systempaystd.php:364
+msgid "Payment by token"
+msgstr "Pago por token"
+
+#: ../class-wc-gateway-systempaystd.php:371
+#, php-format
+msgid ""
+"The payment by token allows to pay orders without re-entering bank data at "
+"each payment. The \"Payment by token\" option should be enabled on your %s "
+"store to use this feature."
+msgstr ""
+"El pago por token permite pagar pedidos sin reingresar datos bancarios en cada "
+"pago. La opción \"Pago por token\" debe estar habilitada en su tienda %s para "
+"usar esta función."
+
+#: ../class-wc-gateway-systempaystd.php:402
+msgid "CUSTOMIZATION"
+msgstr "PERSONALIZACIÓN"
+
+#: ../class-wc-gateway-systempaystd.php:407
+msgid "Theme"
+msgstr "Tema"
+
+#: ../class-wc-gateway-systempaystd.php:414
+msgid ""
+"Select a theme to use to display embedded payment fields. For more "
+"customization, you may edit module template manually."
+msgstr ""
+"Seleccione un tema para usar para mostrar los campos de pago incrustados. Para "
+"una mayor personalización, puede editar la plantilla del módulo manualmente."
+
+#: ../class-wc-gateway-systempaystd.php:419
+msgid "Custom fields placeholders"
+msgstr "Marcadores de posición personalizados de compos"
+
+#: ../class-wc-gateway-systempaystd.php:426
+msgid "Texts to use as placeholders for embedded payment fields."
+msgstr ""
+"Textos a usar como marcadores de posición para campos de pago incrustados."
+
+#: ../class-wc-gateway-systempaystd.php:430
+msgid "Register card label"
+msgstr "Etiqueta de registro de la tarjeta"
+
+#: ../class-wc-gateway-systempaystd.php:432
+msgid "Register my card"
+msgstr "Registrar mi tarjeta"
+
+#: ../class-wc-gateway-systempaystd.php:433
+msgid "Label displayed to invite buyers to register their card data."
+msgstr ""
+"Etiqueta mostrada para invitar a los compradores a registrar los datos de la "
+"tarjeta."
+
+#: ../class-wc-gateway-systempaystd.php:437
+msgid "Payment attempts number"
+msgstr "Número de intentos de pago"
+
+#: ../class-wc-gateway-systempaystd.php:439
+msgid ""
+"Maximum number of payment retries after a failed payment (between 0 and 9). If "
+"blank, the gateway default value is 3."
+msgstr ""
+"Número máximo de intentos de pago después de un pago fallido (entre 0 y 9). Si "
+"está en blanco, el valor por defecto del portal es 3."
+
+#: ../class-wc-gateway-systempaystd.php:513
+msgid "Card number"
+msgstr "Número de la tarjeta"
+
+#: ../class-wc-gateway-systempaystd.php:522
+msgid "Expiry date"
+msgstr "Fecha de expiración"
+
+#: ../class-wc-gateway-systempaystd.php:531
+msgid "CVV"
+msgstr "CVV"
+
+#: ../class-wc-gateway-systempaystd.php:676
+msgid ""
+"Warning, some payment means are not compatible with an integration by iframe. "
+"Please consult the documentation for more details."
+msgstr ""
+"Advertencia, algunos medios de pago no son compatibles con una integración por "
+"iframe. Consulte la documentación para obtener más detalles."
+
+#: ../class-wc-gateway-systempaystd.php:689
+#, php-format
+msgid ""
+"The \"Payment by token\" option should be enabled on your %s store to use this "
+"feature.\\n\\nAre you sure you want to enable this feature?"
+msgstr ""
+"La opción \"Pago por token\" debe estar habilitada en su tienda %s para usar "
+"esta función..\\n\\n¿Está seguro de que desea habilitar esta función?"
+
+#: ../class-wc-gateway-systempaystd.php:1106
+#: ../class-wc-gateway-systempaysubscription.php:187
+#, php-format
+msgid "You will pay with your stored means of payment %s"
+msgstr "Pagará con su medio de pago registrado %s"
+
+#: ../class-wc-gateway-systempaystd.php:1107
+#: ../class-wc-gateway-systempaysubscription.php:188
+msgid "manage your payment means"
+msgstr "administrar sus medios de pago"
+
+#: ../class-wc-gateway-systempaystd.php:1121
+msgid "OR"
+msgstr "O"
+
+#: ../class-wc-gateway-systempaystd.php:1125
+msgid "Click here to pay with your registered means of payment."
+msgstr "Haga clic aquí para pagar con su medio de pago registrado."
+
+#: ../class-wc-gateway-systempaystd.php:1129
+msgid "Click here to pay with another means of payment."
+msgstr "Haga clic aquí para pagar con otro medio de pago."
+
+#: ../class-wc-gateway-systempaystd.php:1534
+msgid "Please wait, you will be redirected to the payment gateway."
+msgstr "Espere, será redireccionado al portal de pago."
+
+#: ../class-wc-gateway-systempaystd.php:1537
+msgid "If nothing happens in 10 seconds, please click the button below."
+msgstr "Si no sucede nada en 10 segundos, haga clic en el botón a continuación."
+
+#: ../class-wc-gateway-systempaystd.php:1546
+#, php-format
+msgid "Pay via %s"
+msgstr "Pagar vía %s"
+
+#: ../class-wc-gateway-systempaystd.php:1547
+msgid "Cancel order &amp; restore cart"
+msgstr "Cancelar pedido y restablecer el carrito de la compra"
+
+#: ../class-wc-gateway-systempaystd.php:1628
+#, php-format
+msgid "The store currency (%s) is not supported by %s."
+msgstr "La moneda de la tienda (%s) no es compatible con %s."
+
+#: ../class-wc-gateway-systempaysubscription.php:26
+msgid "Subscription payment"
+msgstr "Pago por subscripción"
+
+#: ../class-wc-gateway-systempaysubscription.php:98
+msgid "Enables / disables payment by Subscription."
+msgstr "Habilitar/deshabilitar el pago por subscripción."
+
+#: ../class-wc-gateway-systempaysubscription.php:102
+msgid "Subscriptions management"
+msgstr "Gestión de suscripciones"
+
+#: ../class-wc-gateway-systempaysubscription.php:108
+msgid "Custom"
+msgstr "Personalizada"
+
+#: ../class-wc-gateway-systempaysubscription.php:110
+msgid ""
+"If you buy subscriptions on your site, choose the solution you use to manage "
+"them. If you choose \"Custom\", your developper may develop a subscriptions "
+"adapter for our plugin."
+msgstr ""
+"Si compra suscripciones en su sitio, elija la solución que utiliza para "
+"administrarlas. Si elige \"Personalizada\", su desarrollador puede desarrollar "
+"un adaptador de suscripciones para nuestro plugin."
+
+#: ../class-wc-gateway-systempaysubscription.php:274
+#, php-format
+msgid ""
+"Subscription is cancelled only in WooCommerce. Please, consider cancelling the "
+"subscription in %s Back Office."
+msgstr ""
+"La suscripción se cancela solo en WooCommerce. Considere cancelar la "
+"suscripción. en el Back Office %s."
+
+#: ../class-wc-gateway-systempaysubscription.php:276
+#: ../class-wc-gateway-systempaysubscription.php:318
+#: ../class-wc-gateway-systempaysubscription.php:355
+msgid ""
+"An error occurred during the cancellation of the subscription. Please contact "
+"customer support."
+msgstr ""
+"Ocurrió un error durante la cancelación de la suscripción. Comuníquese con el "
+"servicio de atención al cliente.."
+
+#: ../class-wc-gateway-systempaysubscription.php:316
+#: ../class-wc-gateway-systempaysubscription.php:353
+#: ../class-wc-gateway-systempaysubscription.php:381
+#: ../class-wc-gateway-systempaysubscription.php:389
+#: ../class-wc-gateway-systempaysubscription.php:424
+#: ../class-wc-gateway-systempaysubscription.php:460
+#, php-format
+msgid ""
+"An error has occurred during the cancellation or update of the subscription. "
+"Please consult the %s logs for more details."
+msgstr ""
+"Ocurrió un error durante la cancelación o actualización de la suscripción. "
+"Consulte los registros de %s para obtener más detalles."
+
+#: ../class-wc-gateway-systempaysubscription.php:366
+#, php-format
+msgid ""
+"Subscription is updated only in WooCommerce. Please, consider making necessary "
+"changes in %s Back Office."
+msgstr ""
+"La suscripción se actualiza solo en WooCommerce. Considere hacer los cambios "
+"necesarios en el Back Office %s."
+
+#: ../includes/SystempayRestTools.php:173
+#, php-format
+msgid "Unexpected transaction type received (%s)."
+msgstr "Tipo de transacción inesperado recibido (%s)."
+
+#: ../includes/subscriptions/systempay-wc-subscriptions-subscriptions-handler.php:344
+#, php-format
+msgid "IPN subscription payment for recurrence #%s."
+msgstr "Pago de suscripción por IPN para la recurrencia #%s."
+
+#: ../includes/subscriptions/systempay-wc-subscriptions-subscriptions-handler.php:344
+#, php-format
+msgid "Error: Unable to create renewal order with %s plugin."
+msgstr "Error: No se puede crear un pedido de renovación con el plugin %s."
+
+#: ../woo-systempay-payment.php:69
+#, php-format
+msgid ""
+"Sorry ! In order to use WooCommerce %s Payment plugin, you need to install and "
+"activate the WooCommerce plugin."
+msgstr ""
+"¡Lo sentimos! Para usar el plugin de pago %s WooCommerce, debe instalar y "
+"activar el plugin WooCommerce."
+
+#: ../woo-systempay-payment.php:283 ../woo-systempay-payment.php:304
+msgid "My payment means"
+msgstr "Mis medios de pago"
+
+#: ../woo-systempay-payment.php:352
+msgid "Type"
+msgstr "Tipo"
+
+#: ../woo-systempay-payment.php:356
+msgid "Action"
+msgstr "Acción"
+
+#: ../woo-systempay-payment.php:400
+msgid ""
+"Are you sure you want to delete your saved means of payment? This action is "
+"not reversible!"
+msgstr ""
+"¿Está seguro de que desea eliminar su medio de pago registrado? ¡Esta acción "
+"no es reversible!"
+
+#: ../woo-systempay-payment.php:424
+msgid "You have no stored payment means."
+msgstr "You have no stored payment means."
+
+#: ../woo-systempay-payment.php:544
+msgid "Thank you for contacting us. Your email has been successfully sent."
+msgstr ""
+"Gracias por contactarnos. Su correo electrónico ha sido enviado con éxito."
+
+#: ../woo-systempay-payment.php:546
+msgid "An error has occurred. Your email was not sent."
+msgstr "Se ha producido un error. Tu email no fue enviado."
+
+#: ../woo-systempay-payment.php:549
+msgid "Please make sure to configure all required fields."
+msgstr "Configure los campos obligatorios."
+
+msgid "French"
+msgstr "Francés"
+
+msgid "German"
+msgstr "Alemán"
+
+msgid "English"
+msgstr "Inglés"
+
+msgid "Spanish"
+msgstr "Español"
+
+msgid "Chinese"
+msgstr "Chino"
+
+msgid "Italian"
+msgstr "Italiano"
+
+msgid "Japanese"
+msgstr "Japonés"
+
+msgid "Portuguese"
+msgstr "Portugués"
+
+msgid "Dutch"
+msgstr "Holandés"
+
+msgid "Russian"
+msgstr "Ruso"
+
+msgid "Swedish"
+msgstr "Sueco"
+
+msgid "Polish"
+msgstr "Polaco"
+
+msgid "Turkish"
+msgstr "Turco"
+
+msgid "This plugin links your WordPress WooCommerce shop to the Payment gateway."
+msgstr "Este plugin enlaza su tienda WooCommerce WordPress al portal de pago."
