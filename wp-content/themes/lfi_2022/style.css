@@ -20,3 +20,51 @@ body {
 .woocommerce .woocommerce-notices-wrapper {
     display: none !important;
 }
+
+.underline--magical--main {
+    background-image: linear-gradient(120deg, #f4ed0f 0%, #f4ed0f 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 0.2em;
+    background-position: 0 88%;
+    transition: background-size 0.25s ease-in;
+}
+
+.underline--magical--main:hover {
+    background-size: 100% 88%;
+}
+
+.underline--magical--secondary {
+    background-image: linear-gradient(120deg, #F831A0 0%, #F831A0 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 88%;
+    background-position: 0 88%;
+    transition: background-size 0.25s ease-in;
+}
+
+.underline--magical--secondary:hover {
+    background-size: 100% 88%;
+}
+
+.underline--magical--alt {
+    background-image: linear-gradient(120deg, #7CEBFD 0%, #7CEBFD 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 0.2em;
+    background-position: 0 88%;
+    transition: background-size 0.25s ease-in;
+}
+
+.underline--magical--alt:hover {
+    background-size: 100% 88%;
+}
+
+.underline--magical--alt2 {
+    background-image: linear-gradient(120deg, #3F2682E6 0%, #3F2682E6 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 88%;
+    background-position: 0 88%;
+    transition: background-size 0.25s ease-in;
+}
+
+.underline--magical--alt2:hover {
+    background-size: 100% 88%;
+}

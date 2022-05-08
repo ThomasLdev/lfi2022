@@ -6,3 +6,7 @@ productsImage.forEach(item => {
         item.parentNode.parentNode.children[1].click();
     });
 });
+
+let addToCartButton = document.querySelector('.cart .single_add_to_cart_button.button.alt');
+
+addToCartButton.innerHTML = "Faire un don";

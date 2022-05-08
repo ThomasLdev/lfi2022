@@ -116,3 +116,31 @@ function custom_wc_translations($translated){
 }
 
 add_filter( 'gettext', 'custom_wc_translations', 20 );
+
+// ADD LEGAL CHECKBOX
+
+add_action( 'woocommerce_review_order_before_submit', 'bt_add_checkout_checkbox', 10 );
+/**
+ * Add WooCommerce additional Checkbox checkout field
+ */
+function bt_add_checkout_checkbox() {
+
+	woocommerce_form_field( 'checkout_checkbox', array( // CSS ID
+		'type'          => 'checkbox',
+		'class'         => array('form-row lega-checkbox'), // CSS Class
+		'label_class'   => array('woocommerce-form__label woocommerce-form__label-for-checkbox checkbox'),
+		'input_class'   => array('woocommerce-form__input woocommerce-form__input-checkbox input-checkbox'),
+		'required'      => true, // Mandatory or Optional
+		'label'         => "Je certifie sur l'honneur être une personne physique de nationalité française ou résidant en France, et que le règlement de mon don ne provient pas d'une personne morale (association, société, société civile...) mais de mon compte bancaire personnel.", // Label and Link
+	));
+}
+
+add_action( 'woocommerce_checkout_process', 'bt_add_checkout_checkbox_warning' );
+/**
+ * Alert if checkbox not checked
+ */
+function bt_add_checkout_checkbox_warning() {
+	if ( ! (int) isset( $_POST['checkout_checkbox'] ) ) {
+		wc_add_notice( __( 'Veuillez accepter les conditions de don' ), 'error' );
+	}
+}
