@@ -10,7 +10,6 @@
 		<meta charset="<?php bloginfo( 'charset' ); ?>"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 		<title>David Guiraud 2022 - <?php echo get_the_title() ?></title>
-<!--		<link rel="icon" href="--><?php //echo get_template_directory_uri(); ?><!--/assets/medias/icons/logo.ico">-->
 		<?php wp_head(); ?>
 	</head>
 
